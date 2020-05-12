@@ -19,12 +19,12 @@
     뭐라써야할까요
     나는 모르겠누..
     나는 빡빡이다.
-
-## <span id="item2">2. 시연 화면</span>
+## <span id="item2">2. 구현 </span>
+ㅅㅁㅁㅁ
+## <span id="item3">3. 시연 화면</span>
 ![index](https://user-images.githubusercontent.com/49514454/81631564-17214f00-9443-11ea-8e06-807211ff82e0.png)
 
-## <span id="item3">3. 요구 사항</span>
-ㅅㅁㅁㅁ
+
 ## <span id="item4">4. 사용 기술 스택</span>
 #### 1. 백엔드
 
