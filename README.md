@@ -24,7 +24,8 @@
     도서DB를 이용한 책 정보 제공 및 검색기능
     리뷰, 요청, 장터 게시판을 활용한 글 작성, 삭제, 수정 기능 구현
 ## <span id="item3">3. 시연 화면</span>
-![index](https://user-images.githubusercontent.com/49514454/81631564-17214f00-9443-11ea-8e06-807211ff82e0.png)
+![index](https://user-images.githubusercontent.com/49514454/81713768-3eaf0080-94b1-11ea-93a8-696c8bfd8ca8.png)
+
 
 
 ## <span id="item4">4. 사용 기술 스택</span>
