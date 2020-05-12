@@ -5,9 +5,10 @@
 
 [1. 주요 특징](#item1)  
 [2. 시연 화면](#item2)  
-[3. 요구 사항](#item3)  
-[4. 참고 자료](#item4)  
-[5. 팀원](#item5)
+[3. 사용 기술 스택](#item3)
+[4. 사용 기술 스택](#item4)  
+[5. 참고 자료](#item5)  
+[6. 팀원](#item7)
 
 ***
 
@@ -22,20 +23,27 @@
 ## <span id="item2">2. 시연 화면</span>
 ![index](https://user-images.githubusercontent.com/49514454/81631564-17214f00-9443-11ea-8e06-807211ff82e0.png)
 
-## <span id="item3">3. 요구 사항</span>
-요구라이브러리임
-ex) oracle oracle 등등
+## <span id="item4">4. 사용 기술 스택</span>
+1. 백엔드
+
+언어 : JAVA 11
+DB : Oracle 11g
+
+2. 프론트엔드
+
+JQuery...
+
 ex) oracle jdbc 드라이버 드응
 
 
-## <span id ="item4">4. 참고 사이트</span>
+## <span id ="item5">5. 참고 사이트</span>
 * 카테고리 분할 - yes24, 알라딘, 밀리의 서재, 리디북스, 북새통, 교보 문고, 헬로마켓, 셀잇 
 * 카테고리 선정 - 리디북스, 헬로마켓, 셀잇, yes24
 * 메뉴 배치 - 리디북스, 헬로마켓, 셀잇, yes24
 * CSS 모티프 - 리디북스, 헬로마켓, 셀잇, yes24
 * 데이터베이스 참조 - 알라딘 
 
-## <span id="item5">5. 팀원</span>
+## <span id="item6">6. 팀원</span>
 * 편재순(조장) -
 * 김소희 -
 * 류기선 - 
