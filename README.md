@@ -9,7 +9,7 @@
 
 ****
 
-![index](https://user-images.githubusercontent.com/49514454/81631564-17214f00-9443-11ea-8e06-807211ff82e0.png)
+
 
 ## <span id="item1">1. 주요 특징</span>
     사이트에 대한 대략적인 설명
@@ -18,10 +18,7 @@
     나는 빡빡이다.
 
 ## <span id="item2">2. 시연 화면</span>
-요구라이브러리임
-ex) oracle oracle 등등
-ex) oracle jdbc 드라이버 드응
-
+![index](https://user-images.githubusercontent.com/49514454/81631564-17214f00-9443-11ea-8e06-807211ff82e0.png)
 
 ## <span id="item3">3. 요구사항</span>
 요구라이브러리임
