@@ -5,7 +5,7 @@
 [1. 주요 특징](#item1)  
 [2. 시연 화면](#item2)  
 [3. 요구 사항](#item3)  
-[4.참여자](#item4)  
+[4. 참여자](#item4)  
 
 ****
 
@@ -20,7 +20,7 @@
 ## <span id="item2">2. 시연 화면</span>
 ![index](https://user-images.githubusercontent.com/49514454/81631564-17214f00-9443-11ea-8e06-807211ff82e0.png)
 
-## <span id="item3">3. 요구사항</span>
+## <span id="item3">3. 요구 사항</span>
 요구라이브러리임
 ex) oracle oracle 등등
 ex) oracle jdbc 드라이버 드응
