@@ -6,6 +6,7 @@
 [1. 주요 특징](#item1)  
 [2. 시연 화면](#item2)  
 [3. 요구 사항](#item3)
+[3. 사용 기술 스택](#item4)
 [4. 사용 기술 스택](#item4)  
 [5. 참고 자료](#item5)  
 [6. 팀원](#item7)
@@ -23,6 +24,8 @@
 ## <span id="item2">2. 시연 화면</span>
 ![index](https://user-images.githubusercontent.com/49514454/81631564-17214f00-9443-11ea-8e06-807211ff82e0.png)
 
+## <span id="item3">3. 요구 사항</span>
+ㅅㅁㅁㅁ
 ## <span id="item4">4. 사용 기술 스택</span>
 #### 1. 백엔드
 
