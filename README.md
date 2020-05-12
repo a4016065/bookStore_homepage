@@ -1,20 +1,33 @@
 # Semi-Project - 모두의 책장
 >사용자끼리 책에 대한 의견(리뷰)를 나누고 판매,구매하는 사이트
 
+목차.  
+[1. 주요 특징](#item1)  
+[2. 시연 화면](#item2)  
+[3. 도움이 되었던 예제들](#item3)  
+[4.참여자](#item4)  
+
+****
+
 ![index](https://user-images.githubusercontent.com/49514454/81631564-17214f00-9443-11ea-8e06-807211ff82e0.png)
 
-## Description
+## <span id="item1">1. 주요 특징</span>
     사이트에 대한 대략적인 설명
     뭐라써야할까요
     나는 모르겠누..
     나는 빡빡이다.
 
-## Requirements
+## <span id="item2">2. 시연 화면</span>
 요구라이브러리임
 ex) oracle oracle 등등
 ex) oracle jdbc 드라이버 드응
 
-## Credits
+
+## <span id="item3">3. 요구사항</span>
+요구라이브러리임
+ex) oracle oracle 등등
+ex) oracle jdbc 드라이버 드응
+## <span id="item1">4. 참여자</span>
 * a4016065
 * 팀원이름
 
