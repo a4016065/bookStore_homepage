@@ -15,10 +15,7 @@
 
 
 ## <span id="item1">1. 기획 </span>
-    사이트에 대한 대략적인 설명
-    뭐라써야할까요
-    나는 모르겠누..
-    나는 빡빡이다.
+ ![dest](https://user-images.githubusercontent.com/49514454/81713863-62724680-94b1-11ea-9a40-ae3701dff70d.png)
 ## <span id="item2">2. 구현 목표</span>
     JSP 기반 클라이언트-서버 통신을 통하여, 회원가입 및 관리,
     도서DB를 이용한 책 정보 제공 및 검색기능
