@@ -24,9 +24,10 @@
 ![index](https://user-images.githubusercontent.com/49514454/81631564-17214f00-9443-11ea-8e06-807211ff82e0.png)
 
 ## <span id="item4">4. 사용 기술 스택</span>
-####1. 백엔드
+#### 1. 백엔드
 
 **언어 :** JAVA 11
+
 **DB :** Oracle 11g
 
 ####2. 프론트엔드
