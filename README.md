@@ -46,7 +46,7 @@
 ## <span id="item6">6. 팀원</span>
 * 편재순(조장) -
 * 김소희 -
-* 류창규 - 
+* 류창규 - https://github.com/ChangGyu-Ryu
 * 윤태성 -
 * 이기선 -
 * 정정훈 - a4016065
