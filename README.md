@@ -44,7 +44,7 @@
 * 데이터베이스 참조 - 알라딘 
 
 ## <span id="item6">6. 팀원</span>
-* 편재순(조장) -
+* 편재순(조장) - pylonjs
 * 김소희 - zizinuna
 * 류창규 - ChangGyu-Ryu
 * 윤태성 -
