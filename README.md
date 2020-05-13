@@ -47,6 +47,6 @@
 * 편재순(조장) - pylonjs
 * 김소희 - zizinuna
 * 류창규 - ChangGyu-Ryu
-* 윤태성 -
+* 윤태성 - YunTaeSeong
 * 이기선 - lks1029
 * 정정훈 - a4016065
