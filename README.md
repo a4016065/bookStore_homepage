@@ -45,7 +45,7 @@
 
 ## <span id="item6">6. 팀원</span>
 * 편재순(조장) -
-* 김소희 -
+* 김소희 - zizinuna
 * 류창규 - ChangGyu-Ryu
 * 윤태성 -
 * 이기선 -
